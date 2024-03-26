@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Oi!</h1>
+    <h1>Opa, bão!?</h1>
   )
 }
 export default Home
